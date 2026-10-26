@@ -1,6 +1,6 @@
-# Shakshi — Unique MERN Practicals 08–13
+# Shakshi — Unique MERN Practicals 01–13
 
-These are six distinct educational projects with separate concepts and implementations.
+These are thirteen distinct educational projects with separate concepts and implementations.
 
 ## Setup
 
